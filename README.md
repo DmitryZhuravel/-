@@ -25,4 +25,4 @@
 * Применяем метод FillArray.
 * Применяем метод PrintArray.
 6. Тестируем написаный код.
-7. Отправляем решение в реппозиторий на **[GitHub](https://github.com/DmitryZhuravel/Control_work)**
+7. Отправляем решение в реппозиторий на **[GitHub](https://github.com/DmitryZhuravel/Final_control_work)**
